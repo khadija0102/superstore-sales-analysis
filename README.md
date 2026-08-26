@@ -6,6 +6,11 @@ An interactive Excel dashboard developed to analyze sales and profit performance
 
 The dashboard provides insights into sales trends, profitability, customer segments, product categories, regions, discounts, and top-selling products.
 
+## 📊 Dashboard
+
+![Superstore Sales Dashboard](dashboard.PNG)
+
+
 ## 🛠️ Tools & Skills
 
 - Microsoft Excel
