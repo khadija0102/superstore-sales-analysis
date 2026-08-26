@@ -10,7 +10,6 @@ The dashboard provides insights into sales trends, profitability, customer segme
 
 ![Superstore Sales Dashboard](dashboard.PNG)
 
-
 ## 🛠️ Tools & Skills
 
 - Microsoft Excel
@@ -27,6 +26,7 @@ The dashboard provides insights into sales trends, profitability, customer segme
 | Total Sales | $14.92M |
 | Total Profit | $1.52M |
 | Total Quantity | 214,777 |
+| Average Sales | $1,775.88 |
 | Profit Margin | 10.20% |
 
 ## 🔍 Key Insights
@@ -37,7 +37,7 @@ The dashboard provides insights into sales trends, profitability, customer segme
 - The top-selling product was Global Troy™ Executive Leather Low-Back Tilter.
 - 3 of the top 10 products by sales generated negative profit.
 - High sales volume does not necessarily translate into high profitability.
-- Most discount observations were concentrated between 0% and 10%.
+- Most discount observations were concentrated between 0% and 10%, while higher discount levels had very limited observations.
 
 ## 📈 Dashboard Features
 
@@ -54,9 +54,13 @@ The dashboard provides insights into sales trends, profitability, customer segme
 - Interactive Region Slicer
 - Interactive Customer Segment Slicer
 
-## 💡 Business Recommendation
+## 💡 Business Recommendations
 
-The business should monitor products that generate high sales but negative profit and carefully evaluate discount strategies to protect profitability.
+- Monitor products that generate high sales but negative profit.
+- Evaluate discount strategies to protect profit margins.
+- Focus on high-performing customer segments and product categories.
+- Use regional and customer-segment analysis to support business decisions.
+
 
 ## 📁 Project Files
 
