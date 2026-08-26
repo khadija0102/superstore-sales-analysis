@@ -61,4 +61,4 @@ The business should monitor products that generate high sales but negative profi
 ## 📁 Project Files
 
 - `dashbord_ Superstore Sales (Excel).xlsx` — Interactive Excel dashboard
-- `dashboard.png` — Dashboard preview
+- `dashboard.PNG` — Dashboard preview
